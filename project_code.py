@@ -8,7 +8,7 @@ Original file is located at
 
 #Stage 1:
 """
-
+#start
 import tensorflow as tf
 print("TensorFlow Version:", tf.__version__)
 print("GPU Available:", tf.config.list_physical_devices('GPU'))
